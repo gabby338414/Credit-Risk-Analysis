@@ -1,1 +1,1 @@
-# Credit-Risk-Analysis
+# Credit_Risk_Analysis
