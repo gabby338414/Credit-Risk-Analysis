@@ -8,11 +8,11 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
  ![Ensemble_balance_score](https://github.com/gabby338414/Credit-Risk-Analysis/blob/04bbe1adc260f73e7fb634e5c51d340119068c74/Ensemble_balance_score.PNG)
   * Ensemble AdaBoost
  ![Ensemble_Adaboost_score](https://github.com/gabby338414/Credit-Risk-Analysis/blob/5b5cbeb9a0ee06c683e5b0ef60f09b9d2ed747f1/Ensemble_Adaboost_score.PNG)
-  * Smot Resampling
+  * Smot Oversampling
  ![Resampling_Smote](https://github.com/gabby338414/Credit-Risk-Analysis/blob/ff7e1ffe3f7c6780009f0cf5041799d855923917/Resampling_Smote.PNG)
   * Naive Resampling
  ![Resampling_Naive](https://github.com/gabby338414/Credit-Risk-Analysis/blob/f29d4b566c78e6b54bb3d1e63ee5293e12062679/Resampling_Naive.PNG)
-  * Oversampling
+  * Undersampling
   * Combination
 
 ## Summary: 
