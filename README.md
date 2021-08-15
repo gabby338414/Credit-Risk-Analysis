@@ -5,6 +5,7 @@ Compare two new machine learning models that reduce bias and build and evaluate 
 ## Results: 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
   * Ensemble Balance Random
+ ![Ensemble_balance_score](https://github.com/gabby338414/Credit-Risk-Analysis/blob/04bbe1adc260f73e7fb634e5c51d340119068c74/Ensemble_balance_score.PNG)
   * Ensemble AdaBoost
   * Smot Resampling
   * Naive Resampling
