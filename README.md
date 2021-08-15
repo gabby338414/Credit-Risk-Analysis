@@ -13,6 +13,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
   * Naive Resampling
  ![Resampling_Naive](https://github.com/gabby338414/Credit-Risk-Analysis/blob/f29d4b566c78e6b54bb3d1e63ee5293e12062679/Resampling_Naive.PNG)
   * Undersampling
+ ![Resampling_Undersampling](https://github.com/gabby338414/Credit-Risk-Analysis/blob/c24ac188c2df0f1dc23f83fb4f2f702c849acf88/Resampling_Undersampling.PNG)
   * Combination
 
 ## Summary: 
