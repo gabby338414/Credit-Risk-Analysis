@@ -15,6 +15,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
   * Undersampling
  ![Resampling_Undersampling](https://github.com/gabby338414/Credit-Risk-Analysis/blob/c24ac188c2df0f1dc23f83fb4f2f702c849acf88/Resampling_Undersampling.PNG)
   * Combination
+ ![Resampling_Combination](https://github.com/gabby338414/Credit-Risk-Analysis/blob/21fe360598f796cfc8db35ff770d5caf9ed7ffc8/Resampling_Combination.PNG)
 
 ## Summary: 
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
