@@ -11,6 +11,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
   * Smot Resampling
  ![Resampling_Smote](https://github.com/gabby338414/Credit-Risk-Analysis/blob/ff7e1ffe3f7c6780009f0cf5041799d855923917/Resampling_Smote.PNG)
   * Naive Resampling
+ ![Resampling_Naive](https://github.com/gabby338414/Credit-Risk-Analysis/blob/f29d4b566c78e6b54bb3d1e63ee5293e12062679/Resampling_Naive.PNG)
   * Oversampling
   * Combination
 
