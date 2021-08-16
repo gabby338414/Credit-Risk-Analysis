@@ -19,4 +19,4 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 ## Summary: 
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
-My numbers for Ensemble Balance and AdaBoost recall and precision scores were the same. The prediction models for resampling (Smote, Naive, Undersampling, Combination) had different recall scores. But the precision score remained the same through the module. Precision refers to the percentage of your results which are relevant, recall refers to the percentage of total relevant results correctly classified by your algorithm.
+My numbers for Ensemble Balance and AdaBoost recall and precision scores were the same. The prediction models for resampling (Smote, Naive, Undersampling, Combination) had different recall scores. But the precision score remained the same through the module. Precision refers to the percentage of your results which are relevant, recall refers to the percentage of total relevant results correctly classified by your algorithm. I am not able to recommend any of the models.
